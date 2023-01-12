@@ -1,9 +1,9 @@
-title: Mini-Certificate in Industrial Data Science & Machine Learning # title which appears for the website
+title: Program in Industrial Data Science & Machine Learning # title which appears for the website
 email: t2matrix.research@gmail.com #your-email@example.com
 description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
     T2MATRIX Collaborative DS & ML Program Details
  
-baseurl: "t2matrix.github.io"   # specify the subpath of your site
+baseurl: ""   # specify the subpath of your site
 url: "https://t2matrix.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
 twitter_username: #
 github_username: #
